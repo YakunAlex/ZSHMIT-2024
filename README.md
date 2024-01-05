@@ -74,8 +74,6 @@
 
 [Загадка](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=33&id_problem=195)
 
-[Пробежка](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=34&id_problem=211)
-
 [Второй максимум](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=223)
 
 [Количество максимумов](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=224)
