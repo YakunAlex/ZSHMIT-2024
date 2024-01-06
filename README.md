@@ -50,22 +50,6 @@
 
 [Перепись](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=33&id_problem=194)
 
-[Линейный поиск](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=691)
-
-[Максимальный элемент](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=693)
-
-[Контроперация](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=694)
-
-[Сбор черники](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=695)
-
-[Ближайшее число](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=692)
-
-[Налоги](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113&id_problem=696)
-
-[Статистика](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=114&id_problem=703)
-
-[Домашнее задание](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=114&id_problem=704)
-
 **Посложнее**
 
 [Числа фибоначи](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=34&id_problem=208)
