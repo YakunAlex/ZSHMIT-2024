@@ -1,4 +1,8 @@
-# Введение 
+# Ссылки на материалы
+
+[Стандартные функции](https://acmp.ru/asp/do/index.asp?main=topic&id_course=1&id_section=1&id_topic=28)
+
+## Введение 
 
 [А+Б](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=142)
 
@@ -18,7 +22,7 @@
 
 [Журавлики](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=28&id_problem=150)
 
-# If, else
+## If, else
 
 [Больше - меньше](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=2&id_topic=29&id_problem=162)
 
@@ -40,7 +44,7 @@
 
 [Игра с ладьей](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=2&id_topic=30&id_problem=174)
 
-# Циклы
+## Циклы
 
 [Монетки](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=33&id_problem=190)
 
@@ -62,13 +66,13 @@
 
 [Количество максимумов](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=224)
 
-# Массивы
+## Массивы
 
 [Все задачи на линейный поиск](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113)
 
 [Все задачи на анализ данных](https://acmp.ru/asp/do/index.asp?main=topic&id_course=1&id_section=5&id_topic=114)
 
-# Двумерные массивы
+## Двумерные массивы
 
 Нарисовать змейки - см. доску
 
