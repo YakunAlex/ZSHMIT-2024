@@ -96,4 +96,12 @@
 
 [Транспонирование - 4](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=120&id_problem=745)
 
+[Сапер](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=122&id_problem=754)
 
+[Художник](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=122&id_problem=755)
+
+[Проверка на симпатичность](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=122&id_problem=756)
+
+[Седловые точки*](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=122&id_problem=757)
+
+[Теория игр*](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=122&id_problem=758)
