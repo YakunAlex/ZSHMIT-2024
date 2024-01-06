@@ -84,6 +84,8 @@
 
 # Двумерные массивы
 
+Нарисовать змейки - см. доску
+
 [Двумерный массив](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=120&id_problem=741)
 
 [Транспонирование - 1](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=120&id_problem=742)
