@@ -1,6 +1,4 @@
-# Циклы и массивы
-
-**Попроще**
+# Типы данных, if, else
 
 [А+Б](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=142)
 
@@ -40,7 +38,7 @@
 
 [Игра с ладьей](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=2&id_topic=30&id_problem=174)
 
-**Средние**
+# Циклы
 
 [Монетки](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=33&id_problem=190)
 
@@ -78,6 +76,22 @@
 
 [Количество максимумов](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=224)
 
+# Массивы
+
 [Все задачи на линейный поиск](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113)
 
 [Все задачи на анализ данных](https://acmp.ru/asp/do/index.asp?main=topic&id_course=1&id_section=5&id_topic=114)
+
+# Двумерные массивы
+
+[Двумерный массив](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=120&id_problem=741)
+
+[Транспонирование - 1](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=120&id_problem=742)
+
+[Транспонирование - 2](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=120&id_problem=743)
+
+[Транспонирование - 3](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=120&id_problem=744)
+
+[Транспонирование - 4](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=8&id_topic=120&id_problem=745)
+
+
