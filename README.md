@@ -2,6 +2,8 @@
 
 [Стандартные функции](https://acmp.ru/asp/do/index.asp?main=topic&id_course=1&id_section=1&id_topic=28)
 
+[codeforces.com](https://codeforces.com/)
+
 ## Введение 
 
 [А+Б](https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=26&id_problem=142)
