@@ -1,3 +1,19 @@
+# Как ботать после лагеря
+
+1) Дорешивать [acmp.ru](https://acmp.ru/) ([курс по C++](https://acmp.ru/asp/do/index.asp?main=course&id_course=1)), потом [курс по олимпиадным задачам](https://acmp.ru/asp/do/index.asp?main=course&id_course=2)).
+
+2) Раунды на [codeforces.com](https://codeforces.com/contests) (учавствуете в соревновании на Div 3 или Div 4, потом *посмотреть разбор и дорешать задачи*).
+
+3) Есть много разных выездных школ, например ШМИТ, ЛКШ.
+
+4) Школа программиста или что-нибудь похожее.
+
+# Мои контакты
+
+Телеграмм: [@BadBed](https://t.me/BadBed)
+
+VK: [blueberry_void](https://vk.com/blueberry_void)
+
 # Ссылки на материалы
 
 [Стандартные функции](https://acmp.ru/asp/do/index.asp?main=topic&id_course=1&id_section=1&id_topic=28)
